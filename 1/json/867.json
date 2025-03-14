@@ -1,0 +1,27 @@
+{
+  "name": "Muse #867",
+  "description": "Muse",
+  "image": "https://raw.githubusercontent.com/hugeEavan/twoyear-nft/refs/heads/main/1/images/867.png",
+  "dna": "e92053c46659791c76e4b13ef941f9ec4223ce3a",
+  "edition": 867,
+  "date": 1741939454927,
+  "attributes": [
+    {
+      "trait_type": "1",
+      "value": "1"
+    },
+    {
+      "trait_type": "2",
+      "value": "2"
+    },
+    {
+      "trait_type": "3",
+      "value": "3"
+    },
+    {
+      "trait_type": "4",
+      "value": "4"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
