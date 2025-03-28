@@ -1,0 +1,27 @@
+{
+  "name": "Cosmic Spark #3587",
+  "description": "Cosmic Spark",
+  "image": "https://raw.githubusercontent.com/hugeEavan/twoyear-nft/refs/heads/main/3/images/3587.png",
+  "dna": "b85c43dd04348c830d1696a2383152a87c5eb541",
+  "edition": 3587,
+  "date": 1743146843452,
+  "attributes": [
+    {
+      "trait_type": "1",
+      "value": "1"
+    },
+    {
+      "trait_type": "2",
+      "value": "2"
+    },
+    {
+      "trait_type": "3",
+      "value": "3"
+    },
+    {
+      "trait_type": "4",
+      "value": "4"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
